@@ -1,3 +1,3 @@
 # docker-learning
-Docker learing checkin from forked repo
+Docker learing checkin from forked repository
 
